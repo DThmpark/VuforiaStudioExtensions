@@ -1,12 +1,13 @@
-# VuforiaStudioExtensions
+# 뷰포리아 스튜디오 익스텐션
 
-## Introduction
+## 소개
 
-This document contains a collection of (more or less) useful snippets that can be used in Vuforia Studio projects.
-Most examples use "fn.js" - a JavaScript file that can be included in any project with the following steps:
+이 문서는 뷰포리아 스튜디오 프로젝트에서 사용할수 있는 유용한 snippet들을 모아놓은 컬렉션입니다.
+'fn.js' 자바스크립트 파일을 이용하여 어떤 프로젝트에도 적용시킬 수 있습니다.
+방법은 다음과 같습니다:
 
-1. Download "fn.js" from this repository
-1. Add "fn.js" as resource to your Vuforia Studio project
+1. 이저장소의 "fn.js" 파일을 다운로드 받습니다.
+2. 뷰포리아 스튜디오 프로젝트의 resource 에 파일을 추가합니다.
 
     ![fn.js added as resource](docs/fn-js-as-resource.png)
 
